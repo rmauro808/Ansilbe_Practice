@@ -228,3 +228,66 @@ cd /etc/ansible
 sudo vi hosts
 cd
 ansible-playbook playbook.yml --ask-become-pass
+ansible-playbook playbook.yml -ask-become-pass
+ansible-playbook playbook.yml -ask--become-pass
+ansible-playbook playbook.yml --ask-become-pass
+ansible-playbook Playbooks/playbook.yml --ask-become-pass
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+ansible-playbook Playbooks/playbook.yml --ask-become-pass
+clear
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+clear
+admin
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+clear
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+git init
+git commit -m "First Commit"
+git branch -M main
+git remote add origin https://github.com/rmauro808/git-training.git
+git status
+git push -u origin main
+git config --global credential.helper store 
+git push -u origin main
+git status
+git push -u origin main
+git remote add origin git@github.com:rmauro808/git-training.git
+git push -u origin main
+git branch -M main
+git remote add origin git@github.com:rmauro808/git-training.git
+git add .
+git commmit -m "initial Commit"
+git commit -m "initial Commit"
+git branch -M main
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:rmauro808/git-training.git
+git remote -v
+git push -u origin main
+git remote remove origin
+git remote add origin https://github.com/rmauro808/git-training.git
+git push -u origin main
+python /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+python /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+ansible-playbook playbook/playbook.yml --ask-become-pass
+ansible-playbook playbooks/playbook.yml --ask-become-pass
+ansible-playbook Playbooks/playbook.yml --ask-become-pass
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+ansible-playbook Playbooks/playbook.yml --ask-become-pass
+ansible-playbook Playbooks/testing.yml.yml --ask-become-pass
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+ansible-playbook Playbooks/playbook.yml --ask-become-pass
+ansible-playbook Playbooks/testing.yml --ask-become-pass
+realpath testing.yml
+vi testing.yml
+ls
+cd
+cd ansible-env/
+ls
+cd
+cd rj
+ls
+Desktop/
+cd
+clear
+realpath testing.yml

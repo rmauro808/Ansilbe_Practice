@@ -1,4 +1,5 @@
-Listening on 127.0.0.1:45511
-[2025-01-15 03:58:09] info Disposed of connection to running server.
-[2025-01-15 03:58:13] info Checking /home/rj/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/log.txt and /home/rj/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/pid.txt for a running server...
-[2025-01-15 03:58:13] info Found running server (pid=24443)
+Listening on 127.0.0.1:37791
+[2025-01-15 06:20:13] info Disposed of connection to running server.
+[2025-01-15 06:20:13] info Checking /home/rj/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/log.txt and /home/rj/.vscode-server/cli/servers/Stable-91fbdddc47bc9c09064bf7acf133d22631cbf083/pid.txt for a running server...
+[2025-01-15 06:20:13] info Starting server...
+[2025-01-15 06:20:13] info Server started
