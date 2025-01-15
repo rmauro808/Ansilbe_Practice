@@ -1,0 +1,48 @@
+---
+  - name: Testing
+    hosts: VMs
+    become: True
+    tasks:
+      - name: Ping all my VMs
+        ansible.builtin.ping:
+          
+      - name: Install packages
+        yum:
+          name: nginx
+          state: latest
+
+      - name: Start nginx
+        service:
+          name: nginx
+          state: started
+
+      - name: Verify Python3
+        ansible.builtin.package:
+          name: python3
+          state: present
+        register: python_check
+
+      - name: install Cronie
+        yum:
+          name: cronie
+          state: latest
+
+      - name: Install Apache
+        yum:
+          name: httpd
+          state: latest
+
+      - name: Start and enable Apache
+        service:
+          name: httpd
+          state: started
+          enabled: true
+
+      - name: Stop nginx
+        service:
+          name: nginx
+          state: stopped
+
+      
+
+      

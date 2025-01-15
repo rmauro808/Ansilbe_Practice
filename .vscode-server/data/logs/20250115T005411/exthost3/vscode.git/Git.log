@@ -1,0 +1,317 @@
+2025-01-15 01:33:15.205 [info] [main] Log level: Info
+2025-01-15 01:33:15.205 [info] [main] Validating found git in: "git"
+2025-01-15 01:33:15.205 [info] [main] Using git "2.47.1" from "git"
+2025-01-15 01:33:15.205 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-15 01:33:15.205 [info] > git rev-parse --show-toplevel [242ms]
+2025-01-15 01:33:15.205 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:17.451 [info] > git rev-parse --show-toplevel [30ms]
+2025-01-15 01:33:17.462 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.031 [info] > git rev-parse --show-toplevel [515ms]
+2025-01-15 01:33:18.031 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.057 [info] > git rev-parse --show-toplevel [16ms]
+2025-01-15 01:33:18.057 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.070 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-15 01:33:18.070 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.094 [info] > git rev-parse --show-toplevel [16ms]
+2025-01-15 01:33:18.094 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.104 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-15 01:33:18.104 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.118 [info] > git rev-parse --show-toplevel [5ms]
+2025-01-15 01:33:18.118 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.151 [info] > git rev-parse --show-toplevel [6ms]
+2025-01-15 01:33:18.151 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.170 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 01:33:18.170 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.173 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 01:33:18.181 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.203 [info] > git rev-parse --show-toplevel [20ms]
+2025-01-15 01:33:18.203 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.206 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 01:33:18.206 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.209 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 01:33:18.209 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.211 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 01:33:18.211 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.216 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 01:33:18.216 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.219 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 01:33:18.219 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.235 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 01:33:18.235 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.241 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-15 01:33:18.241 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.247 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-15 01:33:18.247 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:33:18.248 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-15 01:34:50.027 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 01:34:50.029 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:36:09.367 [info] > git rev-parse --show-toplevel [9ms]
+2025-01-15 01:36:09.368 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:39:17.632 [info] > git rev-parse --show-toplevel [5ms]
+2025-01-15 01:39:17.632 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 01:41:36.916 [info] > git rev-parse --show-toplevel [11ms]
+2025-01-15 01:41:36.916 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 02:26:20.475 [info] > git init -b main [8ms]
+2025-01-15 02:26:20.477 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 02:26:20.480 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-01-15 02:26:20.486 [info] [Model][openRepository] Opened repository: /home/rj
+2025-01-15 02:26:20.492 [info] [Git][getRemotes] No remotes found in the git config file
+2025-01-15 02:26:20.493 [info] > git config --get commit.template [4ms]
+2025-01-15 02:26:20.493 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-15 02:26:20.493 [warning] [Git][getBranch] No such branch: main
+2025-01-15 02:26:20.505 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-15 02:26:21.266 [info] > git check-ignore -v -z --stdin [48ms]
+2025-01-15 02:26:21.312 [info] > git show --textconv :Playbooks/testing.yml [14ms]
+2025-01-15 02:26:21.313 [info] > git ls-files --stage -- /home/rj/Playbooks/testing.yml [7ms]
+2025-01-15 02:26:21.323 [info] > git status -z -uall [821ms] (cancelled)
+2025-01-15 02:26:28.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-01-15 02:26:28.340 [warning] [Git][getBranch] No such branch: main
+2025-01-15 02:26:28.341 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-01-15 02:26:28.342 [info] > git config --get commit.template [2ms]
+2025-01-15 02:26:28.344 [info] [Git][getRemotes] No remotes found in the git config file
+2025-01-15 02:26:28.345 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-15 02:26:28.345 [warning] [Git][getBranch] No such branch: main
+2025-01-15 02:26:28.369 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2025-01-15 02:26:28.370 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [4ms]
+2025-01-15 02:26:28.370 [info] fatal: bad revision 'refs/heads/main'
+2025-01-15 02:26:28.370 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-01-15 02:26:29.064 [info] > git status -z -uall [717ms] (cancelled)
+2025-01-15 02:26:29.993 [info] > git check-ignore -v -z --stdin [0ms]
+2025-01-15 02:26:31.158 [info] > git show --textconv HEAD:.bash_logout [5ms]
+2025-01-15 02:26:31.159 [info] > git ls-tree -l HEAD -- /home/rj/.bash_logout [2ms]
+2025-01-15 02:26:31.159 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:32.300 [info] > git show --textconv HEAD:.bashrc [3ms]
+2025-01-15 02:26:32.302 [info] > git ls-tree -l HEAD -- /home/rj/.bashrc [2ms]
+2025-01-15 02:26:32.302 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:32.936 [info] > git show --textconv HEAD:.cache/gnome-software/flatpak-system-default/components.xmlb [8ms]
+2025-01-15 02:26:32.938 [info] > git ls-tree -l HEAD -- /home/rj/.cache/gnome-software/flatpak-system-default/components.xmlb [4ms]
+2025-01-15 02:26:32.938 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:32.999 [info] > git ls-tree -l HEAD -- /home/rj/.cache/gnome-software/flatpak-system-default/components.xmlb [1ms]
+2025-01-15 02:26:32.999 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:33.439 [info] > git check-ignore -v -z --stdin [0ms]
+2025-01-15 02:26:34.130 [info] > git show --textconv HEAD:.cache/gnome-software/appstream/components.xmlb [8ms]
+2025-01-15 02:26:34.130 [info] > git ls-tree -l HEAD -- /home/rj/.cache/gnome-software/appstream/components.xmlb [4ms]
+2025-01-15 02:26:34.130 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:34.204 [info] > git ls-tree -l HEAD -- /home/rj/.cache/gnome-software/appstream/components.xmlb [2ms]
+2025-01-15 02:26:34.204 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:34.633 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-15 02:26:34.785 [info] > git show --textconv HEAD:.cache/event-sound-cache.tdb.08c7b7cca53c447d95e3d8060ccb91df.x86_64-redhat-linux-gnu [4ms]
+2025-01-15 02:26:34.786 [info] > git ls-tree -l HEAD -- /home/rj/.cache/event-sound-cache.tdb.08c7b7cca53c447d95e3d8060ccb91df.x86_64-redhat-linux-gnu [1ms]
+2025-01-15 02:26:34.786 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:34.843 [info] > git ls-tree -l HEAD -- /home/rj/.cache/event-sound-cache.tdb.08c7b7cca53c447d95e3d8060ccb91df.x86_64-redhat-linux-gnu [1ms]
+2025-01-15 02:26:34.843 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:26:35.362 [info] > git show --textconv HEAD:.viminfo [2ms]
+2025-01-15 02:26:35.362 [info] > git ls-tree -l HEAD -- /home/rj/.viminfo [0ms]
+2025-01-15 02:26:35.362 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:49:30.331 [info] > git ls-tree -l HEAD -- /home/rj/.viminfo [4ms]
+2025-01-15 02:49:30.331 [info] fatal: Not a valid object name HEAD
+2025-01-15 02:49:30.707 [info] > git show --textconv :Playbooks/testing.yml [3ms]
+2025-01-15 02:49:30.709 [info] > git ls-files --stage -- /home/rj/Playbooks/testing.yml [2ms]
+2025-01-15 03:59:17.957 [info] > git show --textconv :Playbooks/update.yml [2ms]
+2025-01-15 03:59:17.959 [info] > git ls-files --stage -- /home/rj/Playbooks/update.yml [1ms]
+2025-01-15 03:59:23.961 [info] > git show --textconv :Playbooks/testing.yml [4ms]
+2025-01-15 03:59:23.961 [info] > git ls-files --stage -- /home/rj/Playbooks/testing.yml [1ms]
+2025-01-15 05:33:30.272 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [3ms]
+2025-01-15 05:33:30.272 [info] fatal: bad revision 'refs/heads/main'
+2025-01-15 05:33:30.272 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-01-15 05:33:36.197 [info] > git check-ignore -v -z --stdin [1ms]
+2025-01-15 05:35:10.120 [info] [Git][getRemotes] No remotes found in the git config file
+2025-01-15 05:35:10.120 [info] > git config --get commit.template [3ms]
+2025-01-15 05:35:10.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-15 05:35:10.121 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:35:10.127 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-15 05:35:10.320 [info] > git status -z -uall [198ms] (cancelled)
+2025-01-15 05:36:13.003 [info] > git add -A -- . [6ms]
+2025-01-15 05:36:13.003 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:13.059 [info] > git add -A -- . [1ms]
+2025-01-15 05:36:13.059 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:13.266 [info] > git add -A -- . [4ms]
+2025-01-15 05:36:13.266 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:13.721 [info] > git add -A -- . [0ms]
+2025-01-15 05:36:13.721 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:14.548 [info] > git add -A -- . [14ms]
+2025-01-15 05:36:14.548 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:15.805 [info] > git add -A -- . [2ms]
+2025-01-15 05:36:15.806 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:17.612 [info] > git add -A -- . [3ms]
+2025-01-15 05:36:17.612 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:20.083 [info] > git add -A -- . [8ms]
+2025-01-15 05:36:20.083 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:23.297 [info] > git add -A -- . [10ms]
+2025-01-15 05:36:23.298 [info] fatal: Unable to create '/home/rj/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+2025-01-15 05:36:25.429 [info] > git add -A -- . [22193ms]
+2025-01-15 05:36:25.459 [info] > git config --get commit.template [1ms]
+2025-01-15 05:36:25.470 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-01-15 05:36:25.471 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:36:25.482 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-01-15 05:36:25.939 [info] > git status -z -uall [466ms] (cancelled)
+2025-01-15 05:36:27.812 [info] > git -c user.useConfigOnly=true commit --quiet [1887ms]
+2025-01-15 05:36:27.820 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-15 05:36:27.859 [info] > git config --get-all user.name [5ms]
+2025-01-15 05:36:27.878 [info] > git config --get commit.template [6ms]
+2025-01-15 05:36:27.953 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-01-15 05:36:27.953 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:36:27.976 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-01-15 05:36:28.224 [info] > git add -A -- . [366ms]
+2025-01-15 05:36:28.377 [info] > git status -z -uall [412ms] (cancelled)
+2025-01-15 05:36:28.377 [info] > git -c user.useConfigOnly=true commit --quiet [147ms]
+2025-01-15 05:36:28.377 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-15 05:36:28.381 [info] > git config --get-all user.name [1ms]
+2025-01-15 05:36:28.385 [info] > git config --get commit.template [1ms]
+2025-01-15 05:36:28.388 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-15 05:36:28.388 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:36:28.397 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2025-01-15 05:36:29.069 [info] > git status -z -uall [679ms] (cancelled)
+2025-01-15 05:36:54.428 [info] > git -c user.useConfigOnly=true commit --quiet [79ms]
+2025-01-15 05:36:54.429 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-15 05:36:54.432 [info] > git config --get-all user.name [1ms]
+2025-01-15 05:36:54.437 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-01-15 05:36:54.438 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:36:54.438 [info] > git config --get commit.template [4ms]
+2025-01-15 05:36:54.448 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-01-15 05:36:54.637 [info] > git status -z -uall [195ms] (cancelled)
+2025-01-15 05:38:31.749 [info] > git -c user.useConfigOnly=true commit --quiet [98ms]
+2025-01-15 05:38:31.749 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-15 05:38:31.752 [info] > git config --get-all user.name [1ms]
+2025-01-15 05:38:31.760 [info] > git config --get commit.template [5ms]
+2025-01-15 05:38:31.761 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-15 05:38:31.761 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:38:31.772 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2025-01-15 05:38:31.942 [info] > git status -z -uall [176ms] (cancelled)
+2025-01-15 05:39:24.342 [info] > git -c user.useConfigOnly=true commit --quiet [79ms]
+2025-01-15 05:39:24.342 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-01-15 05:39:24.345 [info] > git config --get-all user.name [1ms]
+2025-01-15 05:39:24.348 [info] > git config --get commit.template [1ms]
+2025-01-15 05:39:24.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-01-15 05:39:24.350 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:39:24.361 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-01-15 05:39:24.566 [info] > git status -z -uall [211ms] (cancelled)
+2025-01-15 05:40:59.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-01-15 05:40:59.508 [warning] [Git][getBranch] No such branch: main
+2025-01-15 05:40:59.508 [info] > git config --get commit.template [5ms]
+2025-01-15 05:40:59.517 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [0ms]
+2025-01-15 05:40:59.695 [info] > git status -z -uall [185ms] (cancelled)

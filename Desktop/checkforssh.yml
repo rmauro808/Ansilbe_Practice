@@ -1,0 +1,10 @@
+---
+- name: Ensure SSH service is running
+  hosts: all
+  become: true  # This allows Ansible to use sudo to perform privileged actions
+  tasks:
+    - name: Start SSH service
+      ansible.builtin.service:
+        name: sshd
+        state: started
+

@@ -1,0 +1,17 @@
+2025-01-15 01:33:15.204 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-15 01:33:15.204 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-15 01:33:15.204 [info] Experiment 'pythonTestAdapter' is active
+2025-01-15 01:33:15.204 [warning] Dir "/home/rj/.pixi/envs" is not watchable (directory does not exist)
+2025-01-15 01:33:15.204 [info] Python interpreter path: ./ansible-env/bin/python
+2025-01-15 01:33:15.228 [info] > pyenv which python
+2025-01-15 01:33:15.228 [info] cwd: .
+2025-01-15 01:33:18.086 [info] > . ./ansible-env/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-15 01:33:18.086 [info] shell: bash
+2025-01-15 01:33:18.162 [info] > python ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-15 01:33:18.162 [info] shell: bash
+2025-01-15 01:33:18.198 [info] Setting environment variable VIRTUAL_ENV in collection to /home/rj/ansible-env {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-15 01:33:18.198 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (ansible-env)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-15 01:33:18.198 [info] Prepending environment variable PS1 in collection with (ansible-env)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-01-15 01:33:18.198 [info] Prepending environment variable PATH in collection with /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash:/home/rj/ansible-env/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-15 01:33:18.199 [info] Send text to terminal: python /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+2025-01-15 01:33:19.025 [info] Starting Pylance language server.

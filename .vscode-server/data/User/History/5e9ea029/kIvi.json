@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "python.terminal.executeInFileDir": true,
+    "remote.SSH.remotePlatform": {
+        "192.168.1.48": "linux"
+    }
+}

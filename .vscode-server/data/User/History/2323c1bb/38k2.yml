@@ -1,0 +1,28 @@
+---
+  - name: Testing
+    hosts: VMs
+    become: True
+    tasks:
+      - name: Ping all my VMs
+        ansible.builtin.ping:
+          
+      - name: Install packages
+        yum:
+          name: nginx
+          state: latest
+
+      - name: Start nginx
+        service:
+          name: nginx
+          state: started
+
+      - name: Verify Python3
+        ansible.builtin.package:
+          name: python3
+          state: present
+        register: python_check
+
+      - name: Stop nginx
+        service:
+          name: nginx
+          state: stopped

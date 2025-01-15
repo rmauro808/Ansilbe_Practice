@@ -1,0 +1,55 @@
+2025-01-15 00:56:57.932 [info] [main] Log level: Info
+2025-01-15 00:56:57.932 [info] [main] Validating found git in: "git"
+2025-01-15 00:56:57.932 [info] [main] Using git "2.47.1" from "git"
+2025-01-15 00:56:57.932 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-15 00:56:57.932 [info] > git rev-parse --show-toplevel [39ms]
+2025-01-15 00:56:57.932 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.936 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.936 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.940 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 00:56:57.940 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.951 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 00:56:57.951 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.953 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.953 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.954 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.954 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.956 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.956 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.970 [info] > git rev-parse --show-toplevel [13ms]
+2025-01-15 00:56:57.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.971 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 00:56:57.972 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.973 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.973 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.985 [info] > git rev-parse --show-toplevel [11ms]
+2025-01-15 00:56:57.985 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.987 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 00:56:57.987 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.989 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.989 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.991 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-15 00:56:57.991 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.995 [info] > git rev-parse --show-toplevel [0ms]
+2025-01-15 00:56:57.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:57.997 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:57.997 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:58.001 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-15 00:56:58.001 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:56:58.003 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-15 00:56:59.440 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:56:59.440 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:57:02.180 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-15 00:57:02.180 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:57:04.194 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:57:04.194 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:57:35.530 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/rj/.vscode-server/extensions/.a7e4da2f-3d32-4853-a29c-d8d9a47ad671/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/". Error:Error: ENOENT: no such file or directory, realpath '/home/rj/.vscode-server/extensions/.a7e4da2f-3d32-4853-a29c-d8d9a47ad671/bundled/libs/debugpy/_vendored/pydevd/_pydevd_frame_eval/'
+2025-01-15 00:57:36.330 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/rj/.vscode-server/extensions/.a7e4da2f-3d32-4853-a29c-d8d9a47ad671/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/". Error:Error: ENOENT: no such file or directory, realpath '/home/rj/.vscode-server/extensions/.a7e4da2f-3d32-4853-a29c-d8d9a47ad671/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/'
+2025-01-15 00:57:39.972 [info] > git rev-parse --show-toplevel [15ms]
+2025-01-15 00:57:39.973 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:57:39.975 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-15 00:57:39.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:57:45.229 [info] > git rev-parse --show-toplevel [7ms]
+2025-01-15 00:57:45.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-15 00:59:09.798 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-15 00:59:09.798 [info] fatal: not a git repository (or any of the parent directories): .git

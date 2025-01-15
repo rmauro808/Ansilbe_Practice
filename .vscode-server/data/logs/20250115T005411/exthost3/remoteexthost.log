@@ -1,0 +1,38 @@
+2025-01-15 01:33:13.358 [info] Extension host with pid 29160 started
+2025-01-15 01:33:13.358 [error] Error: EEXIST: file already exists, open '/home/rj/.vscode-server/data/User/workspaceStorage/ffdbee28c1af6aeb2512c006e1688132/vscode.lock'
+2025-01-15 01:33:13.365 [info] Lock '/home/rj/.vscode-server/data/User/workspaceStorage/ffdbee28c1af6aeb2512c006e1688132/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-01-15 01:33:13.407 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onView:ansible-home', root cause: redhat.ansible
+2025-01-15 01:33:13.432 [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onView:ansible-home', root cause: redhat.ansible
+2025-01-15 01:33:13.432 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-01-15 01:33:14.083 [info] Lock '/home/rj/.vscode-server/data/User/workspaceStorage/ffdbee28c1af6aeb2512c006e1688132/vscode.lock': The lock does not look stale, elapsed: 1490 ms, giving up.
+2025-01-15 01:33:14.131 [info] Lock '/home/rj/.vscode-server/data/User/workspaceStorage/ffdbee28c1af6aeb2512c006e1688132-1/vscode.lock': Lock acquired.
+2025-01-15 01:33:14.267 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-01-15 01:33:14.268 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-01-15 01:33:14.510 [info] Eager extensions activated
+2025-01-15 01:33:14.527 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-15 01:33:14.527 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-15 01:33:14.721 [info] ExtensionService#_doActivateExtension redhat.ansible, startup: false, activationEvent: 'onView:ansible-home'
+2025-01-15 01:33:15.191 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-01-15 01:33:15.191 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-01-15 01:33:15.326 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-01-15 01:33:17.480 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-01-15 01:34:06.481 [error] User Cancelled
+2025-01-15 01:34:49.988 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-15 01:35:16.979 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-15 01:35:22.597 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-15 01:35:22.598 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-15 01:35:22.598 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-01-15 02:26:21.230 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-01-15 02:26:28.324 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 02:26:29.051 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 02:26:46.128 [error] Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)
+2025-01-15 03:58:13.791 [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+2025-01-15 05:35:10.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10012
+2025-01-15 05:36:25.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+2025-01-15 05:36:28.367 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 05:36:29.048 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 05:36:54.630 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 05:38:31.934 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 05:39:24.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-01-15 05:40:59.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

@@ -1,0 +1,17 @@
+---
+- name: Test with a file on Desktop
+  hosts: VMs
+  become: True
+  tasks:
+  - name: Ensure Desktop is reachable
+    file:
+      path: "/home/rj/Desktop"
+      state: directory
+      mode: '0755'
+
+  - name: Create the test file
+    copy:
+      dest: "/home/rj/Desktop/test.txt"
+      content: "This is the test words!!!!!!"
+      mode: '0644'
+ 

@@ -1,0 +1,10 @@
+---
+  - name: Testing
+    hosts: VMs
+    tasks:
+      - name: Ping all my VMs
+        ansible.builtin.ping:
+          
+      - name: Print Message
+        ansible.builtin.debug:
+          msg: Hello world!
