@@ -11,3 +11,15 @@
 2025-01-15 06:26:32.201 [warning] No ptyHost heartbeat after 6 seconds
 2025-01-15 06:26:43.894 [warning] No ptyHost heartbeat after 6 seconds
 2025-01-15 06:26:51.910 [error] No ptyHost heartbeat after 12 seconds
+2025-01-15 06:27:06.479 [warning] No ptyHost heartbeat after 6 seconds
+2025-01-15 06:27:15.935 [info] [<unknown>][e7f98a7c][ExtensionHostConnection] The client has reconnected.
+2025-01-15 06:27:20.114 [info] [<unknown>][e7f98a7c][ExtensionHostConnection] The client has reconnected.
+2025-01-15 06:27:37.381 [info] [<unknown>][e7f98a7c][ExtensionHostConnection] <67119> Extension Host Process exited with code: null, signal: SIGKILL.
+2025-01-15 06:27:37.388 [info] Last EH closed, waiting before shutting down
+2025-01-15 06:27:41.817 [error] [<unknown>][e7f98a7c][ExtensionHostConnection] Unknown reconnection token (seen before).
+2025-01-15 06:28:14.896 [info] [<unknown>][ec933c6b][ExtensionHostConnection] New connection established.
+2025-01-15 06:28:14.898 [info] [<unknown>][3cca5dfc][ManagementConnection] New connection established.
+2025-01-15 06:28:14.915 [info] [<unknown>][ec933c6b][ExtensionHostConnection] <85676> Launched Extension Host Process.
+2025-01-15 06:28:25.841 [error] [File Watcher] Inotify limit reached (ENOSPC) (path: /home/rj)
+2025-01-15 06:28:41.070 [info] [<unknown>][5deaf557][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-01-15 06:32:37.390 [info] New EH opened, aborting shutdown

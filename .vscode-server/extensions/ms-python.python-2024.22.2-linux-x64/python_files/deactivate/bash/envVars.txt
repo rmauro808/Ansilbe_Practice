@@ -4,7 +4,7 @@ HISTCONTROL=ignoredups
 TERM_PROGRAM_VERSION=1.96.3
 HOSTNAME=localhost
 HISTSIZE=1000
-GPG_TTY=/dev/pts/8
+GPG_TTY=/dev/pts/13
 PWD=/home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash
 LOGNAME=rj
 XDG_SESSION_TYPE=tty
@@ -41,5 +41,5 @@ SELINUX_LEVEL_REQUESTED=
 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 MAIL=/var/spool/mail/rj
 TERM_PROGRAM=vscode
-VSCODE_IPC_HOOK_CLI=/run/user/1000/vscode-ipc-875ca508-50ef-4517-83d4-675f0bfb4ff1.sock
+VSCODE_IPC_HOOK_CLI=/run/user/1000/vscode-ipc-7a54cc06-7875-495f-b896-4c3f073bfbb1.sock
 _=/home/rj/ansible-env/bin/python

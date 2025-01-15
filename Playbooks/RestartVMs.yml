@@ -1,0 +1,9 @@
+---
+- name: Restart VMs
+  hosts: VMs
+  become: true
+  tasks:
+
+    - name: Reboot the VM
+      reboot:
+        reboot_timeout: 300
