@@ -6,6 +6,11 @@
       - name: Ping all my VMs
         ansible.builtin.ping:
           
+      - name: Add a text file to Desktop
+        copy:
+          dest: "/home/rj/Desktop/Ansible.txt"
+          content: "I LOVE ANSIBLE!!!"
+
       - name: Install packages
         yum:
           name: nginx
@@ -41,6 +46,14 @@
         command:
           cmd: yum clean all
 
-      
+      - name: Add a text file to Desktop
+        copy:
+          dest: "/home/rj/Desktop/Ansible.txt"
+          content: "I LOVE ANSIBLE!!!"
 
+<<<<<<< HEAD
       
+      
+=======
+          
+>>>>>>> 8595430ec392ccda584e543603c3922ae307cde7

@@ -1,0 +1,19 @@
+2025-01-15 06:20:16.875 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-15 06:20:16.875 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-15 06:20:16.875 [info] Experiment 'pythonTestAdapter' is active
+2025-01-15 06:20:16.875 [warning] Dir "/home/rj/.pixi/envs" is not watchable (directory does not exist)
+2025-01-15 06:20:16.875 [info] Python interpreter path: ./ansible-env/bin/python
+2025-01-15 06:20:16.921 [info] > pyenv which python
+2025-01-15 06:20:16.921 [info] cwd: .
+2025-01-15 06:20:18.190 [info] Discover tests for workspace name: rj - uri: /home/rj/.vscode/settings.json
+2025-01-15 06:20:19.507 [info] > . ./ansible-env/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-15 06:20:19.508 [info] shell: bash
+2025-01-15 06:20:19.556 [info] Discover tests for workspace name: rj - uri: /home/rj/.vscode/settings.json
+2025-01-15 06:20:19.746 [info] > python ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-15 06:20:19.746 [info] shell: bash
+2025-01-15 06:20:19.850 [info] Setting environment variable VIRTUAL_ENV in collection to /home/rj/ansible-env {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-15 06:20:19.850 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (ansible-env)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-15 06:20:19.850 [info] Prepending environment variable PS1 in collection with (ansible-env)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-01-15 06:20:19.850 [info] Prepending environment variable PATH in collection with /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash:/home/rj/ansible-env/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-15 06:20:19.851 [info] Send text to terminal: python /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/rj/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+2025-01-15 06:20:20.697 [info] Starting Pylance language server.

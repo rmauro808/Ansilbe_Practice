@@ -1,0 +1,39 @@
+---
+- name: Configure Time Server and Set Timezone
+  hosts: all
+  become: true
+  tasks:
+
+    # Install the chrony package
+    - name: Install chrony package
+      yum:
+        name: chrony
+        state: present
+
+    # Enable and start the chrony service
+    - name: Enable and start chrony service
+      service:
+        name: chronyd
+        state: started
+        enabled: true
+
+    # Configure the NTP servers
+    - name: Configure NTP servers in chrony.conf
+      lineinfile:
+        path: /etc/chrony.conf
+        regexp: "^server"
+        line: "server time.google.com iburst"
+        state: present
+      notify:
+        - Restart chrony
+
+    # Set the system timezone to Eastern Time
+    - name: Set system timezone to Eastern Time (US/Eastern)
+      timezone:
+        name: "America/New_York"
+
+  handlers:
+    - name: Restart chrony
+      service:
+        name: chronyd
+        state: restarted

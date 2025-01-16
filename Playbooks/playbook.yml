@@ -7,11 +7,14 @@
     file:
       path: "/home/rj/Desktop"
       state: directory
-      mode: '0755'
 
   - name: Create the test file
     copy:
       dest: "/home/rj/Desktop/test.txt"
       content: "This is the test words!!!!!!"
-      mode: '0644'
+
+  - name: add a text file to Desktop
+    copy:
+        dest: "/home/rj/Desktop/Ansible.txt"
+        content: "I LOVE ANSIBLE!!!"
  
