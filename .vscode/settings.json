@@ -1,7 +1,0 @@
-{
-<<<<<<< HEAD
-    "ansible.python.interpreterPath": "c:\\Users\\rmaur\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
-=======
-    "ansible.python.interpreterPath": "/home/rj/ansible-env/bin/python"
->>>>>>> 8595430ec392ccda584e543603c3922ae307cde7
-}
