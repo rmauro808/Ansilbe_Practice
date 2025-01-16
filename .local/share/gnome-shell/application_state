@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<application-state>
-  <context id="">
-    <application id="org.gnome.Ptyxis.desktop" score="1328" last-seen="1736920202"/>
-    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1736910873"/>
-    <application id="org.gnome.TextEditor.desktop" score="0" last-seen="1736910872"/>
-    <application id="org.gnome.Software.desktop" score="7" last-seen="1736920200"/>
-  </context>
-</application-state>
