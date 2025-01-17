@@ -50,10 +50,3 @@
         copy:
           dest: "/home/rj/Desktop/Ansible.txt"
           content: "I LOVE ANSIBLE!!!"
-
-<<<<<<< HEAD
-      
-      
-=======
-          
->>>>>>> 8595430ec392ccda584e543603c3922ae307cde7
